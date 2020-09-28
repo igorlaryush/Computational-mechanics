@@ -1,1 +1,2 @@
-# Numerical-mechanics
+# Computational-mechanics
+
